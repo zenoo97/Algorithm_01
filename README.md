@@ -7,4 +7,4 @@
 2. success/failure case
 
 ![success case](https://user-images.githubusercontent.com/85465356/120965197-7f09ac80-c79f-11eb-80b4-f47f37f76450.jpg)
-![failure case](https://user-images.githubusercontent.com/85465356/120965203-80d37000-c79f-11eb-8332-ff00ed5f2cd5.jpg)
+![failure case](https://user-images.githubusercontent.com/85465356/120965478-ea537e80-c79f-11eb-91d6-47bb0379af29.jpg)
