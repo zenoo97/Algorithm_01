@@ -12,6 +12,8 @@
 ![success case(model1)](https://user-images.githubusercontent.com/85465356/120969281-f130c000-c7a4-11eb-819b-ab72e08b2dcf.jpg)
 ![failure case(model1)](https://user-images.githubusercontent.com/85465356/120969299-f68e0a80-c7a4-11eb-80bd-c0c88dd87e60.jpg)
 ----------MODEL 2 : 3 Layers with 2 Convolution layer----------
+
+
 ![model2_select](https://user-images.githubusercontent.com/85465356/120969731-7ae08d80-c7a5-11eb-9fa9-189354baed8d.jpg)
 
 
@@ -26,6 +28,8 @@
 ![failure case](https://user-images.githubusercontent.com/85465356/120965478-ea537e80-c79f-11eb-91d6-47bb0379af29.jpg)
 
 ----------MODEL 3 : 3 Layers with 3 Convolution layer----------
+
+
 ![model3_select](https://user-images.githubusercontent.com/85465356/120969734-7c11ba80-c7a5-11eb-9c61-61c9d239e542.jpg)
 
 1. Accuracy
