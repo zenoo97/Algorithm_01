@@ -37,11 +37,12 @@
 
 1. Accuracy
 
-![accuracies(model3)](https://user-images.githubusercontent.com/85465356/120969557-4240b400-c7a5-11eb-859e-6a32272fc59b.jpg)
+![accuracies(model3)](https://user-images.githubusercontent.com/85465356/121006483-e76e8300-c7cb-11eb-8edc-8ba3f57e53c0.jpg)
+
 
 
 2. success/failure case
 
+![success case(model3)](https://user-images.githubusercontent.com/85465356/121006422-d7ef3a00-c7cb-11eb-8aaf-9821c7b5617a.jpg)
+![failure case(model3)](https://user-images.githubusercontent.com/85465356/121006440-dfaede80-c7cb-11eb-90c4-0317946168d0.jpg)
 
-![success case(model3)](https://user-images.githubusercontent.com/85465356/120969569-453ba480-c7a5-11eb-82a2-96cf8ecc6b09.jpg)
-![failure case(model3)](https://user-images.githubusercontent.com/85465356/120969580-479dfe80-c7a5-11eb-9d6b-aa3d067ed5f8.jpg)
