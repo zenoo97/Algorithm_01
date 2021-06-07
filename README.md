@@ -1,4 +1,8 @@
 # Algorithm_01
+----------MODEL 1 : 3 Layers with 1 Convolution layer----------
+1. Accuracy
+
+2. success/failure case
 
 ----------MODEL 2 : 3 Layers with 2 Convolution layer----------
 1. Accuracy
@@ -10,3 +14,8 @@
 
 ![success case](https://user-images.githubusercontent.com/85465356/120965197-7f09ac80-c79f-11eb-80b4-f47f37f76450.jpg)
 ![failure case](https://user-images.githubusercontent.com/85465356/120965478-ea537e80-c79f-11eb-91d6-47bb0379af29.jpg)
+
+----------MODEL 3 : 3 Layers with 3 Convolution layer----------
+1. Accuracy
+
+2. success/failure case
