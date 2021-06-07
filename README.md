@@ -1,4 +1,6 @@
 # Algorithm_01
+
+----------MODEL 2 : 3 Layers with 2 Convolution layer
 1. Accuracy
  
  
