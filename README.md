@@ -21,4 +21,8 @@
 ----------MODEL 3 : 3 Layers with 3 Convolution layer----------
 1. Accuracy
 
+![accuracies(model3)](https://user-images.githubusercontent.com/85465356/120969557-4240b400-c7a5-11eb-859e-6a32272fc59b.jpg)
+
 2. success/failure case
+![success case(model3)](https://user-images.githubusercontent.com/85465356/120969569-453ba480-c7a5-11eb-82a2-96cf8ecc6b09.jpg)
+![failure case(model3)](https://user-images.githubusercontent.com/85465356/120969580-479dfe80-c7a5-11eb-9d6b-aa3d067ed5f8.jpg)
