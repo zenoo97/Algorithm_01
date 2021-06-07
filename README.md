@@ -39,7 +39,7 @@
 
 
 1. Accuracy
-![accuracies(model3)](https://user-images.githubusercontent.com/85465356/121006483-e76e8300-c7cb-11eb-8edc-8ba3f57e53c0.jpg)
+![accuracies(model3)](https://user-images.githubusercontent.com/85465356/121006890-5fd54400-c7cc-11eb-9096-7265039cba43.jpg)
 
 
 2. success/failure case
