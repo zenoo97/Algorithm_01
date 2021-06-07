@@ -30,15 +30,16 @@
 ![success case](https://user-images.githubusercontent.com/85465356/120965197-7f09ac80-c79f-11eb-80b4-f47f37f76450.jpg)
 ![failure case](https://user-images.githubusercontent.com/85465356/120965478-ea537e80-c79f-11eb-91d6-47bb0379af29.jpg)
 
+
 ----------MODEL 3 : 3 Layers with 3 Convolution layer----------
 
 
 ![model3_select](https://user-images.githubusercontent.com/85465356/120969734-7c11ba80-c7a5-11eb-9c61-61c9d239e542.jpg)
 
+
+
 1. Accuracy
 ![accuracies(model3)](https://user-images.githubusercontent.com/85465356/121006483-e76e8300-c7cb-11eb-8edc-8ba3f57e53c0.jpg)
-
-
 
 
 2. success/failure case
