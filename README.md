@@ -59,7 +59,7 @@
 
 --------------MODEL 3 : 7 Layers with 4 Convolution layer--------------
 
-1. Selct MODEL 3
+1. Select MODEL 3
 
 
 ![model3_select](https://user-images.githubusercontent.com/85465356/121676241-5d862900-caef-11eb-9d80-4bae4bd9c251.jpg)
