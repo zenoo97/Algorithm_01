@@ -1,51 +1,55 @@
 # Algorithm_01
-----------MODEL 1 : 3 Layers with 1 Convolution layer----------
-
-![model1_select](https://user-images.githubusercontent.com/85465356/120969727-79af6080-c7a5-11eb-9719-1fdd6fb6cc24.jpg)
 
 
-1. Accuracy
-
-![accuracies(model1)](https://user-images.githubusercontent.com/85465356/120969303-f8f06480-c7a4-11eb-8491-db26a8222b64.jpg)
+![model1_select](https://user-images.githubusercontent.com/85465356/121676109-36c7f280-caef-11eb-82c8-c5971763b26e.jpg)
 
 
-2. success/failure case
-
-![success case(model1)](https://user-images.githubusercontent.com/85465356/120969281-f130c000-c7a4-11eb-819b-ab72e08b2dcf.jpg)
-![failure case(model1)](https://user-images.githubusercontent.com/85465356/120969299-f68e0a80-c7a4-11eb-80bd-c0c88dd87e60.jpg)
-----------MODEL 2 : 3 Layers with 2 Convolution layer----------
+![case1_operate_accuracy](https://user-images.githubusercontent.com/85465356/121676138-40e9f100-caef-11eb-873f-8a553e240bd9.jpg)
 
 
-![model2_select](https://user-images.githubusercontent.com/85465356/120969731-7ae08d80-c7a5-11eb-9fa9-189354baed8d.jpg)
+![case1_operate_accuracy_j](https://user-images.githubusercontent.com/85465356/121676148-447d7800-caef-11eb-88d8-34fec1fafa2d.jpg)
 
 
-1. Accuracy
- 
- 
- ![accuracies](https://user-images.githubusercontent.com/85465356/120964955-1c181580-c79f-11eb-9294-dd76390fb93b.jpg)
+![case1(1)](https://user-images.githubusercontent.com/85465356/121676155-46473b80-caef-11eb-9171-24b215633c49.jpg)
 
 
-2. success/failure case
-
-![success case](https://user-images.githubusercontent.com/85465356/120965197-7f09ac80-c79f-11eb-80b4-f47f37f76450.jpg)
-![failure case](https://user-images.githubusercontent.com/85465356/120965478-ea537e80-c79f-11eb-91d6-47bb0379af29.jpg)
+![case1(2)](https://user-images.githubusercontent.com/85465356/121676161-4810ff00-caef-11eb-9d3d-d87d49ebff13.jpg)
 
 
-----------MODEL 3 : 3 Layers with 3 Convolution layer----------
+![case1(3)](https://user-images.githubusercontent.com/85465356/121676167-49422c00-caef-11eb-95a0-747147f9ab2a.jpg)
 
 
-![model3_select](https://user-images.githubusercontent.com/85465356/120969734-7c11ba80-c7a5-11eb-9c61-61c9d239e542.jpg)
+![model2_select](https://user-images.githubusercontent.com/85465356/121676183-4e06e000-caef-11eb-9035-0bb5d6108461.jpg)
 
 
-
-1. Accuracy
-
-
-![accuracies(model3)](https://user-images.githubusercontent.com/85465356/121006890-5fd54400-c7cc-11eb-9096-7265039cba43.jpg)
+![case2(1)](https://user-images.githubusercontent.com/85465356/121676199-52cb9400-caef-11eb-9b07-07ac81edf92d.jpg)
 
 
-2. success/failure case
+![case2(5)](https://user-images.githubusercontent.com/85465356/121676206-54955780-caef-11eb-8498-db1c43b79ce2.jpg)
 
-![success case(model3)](https://user-images.githubusercontent.com/85465356/121006422-d7ef3a00-c7cb-11eb-8aaf-9821c7b5617a.jpg)
-![failure case(model3)](https://user-images.githubusercontent.com/85465356/121006440-dfaede80-c7cb-11eb-90c4-0317946168d0.jpg)
 
+![case2(2)](https://user-images.githubusercontent.com/85465356/121676212-55c68480-caef-11eb-88e1-592c6b204818.jpg)
+
+
+![case2(3)](https://user-images.githubusercontent.com/85465356/121676223-57904800-caef-11eb-8e2d-b89882b762f9.jpg)
+
+
+![case2(4)](https://user-images.githubusercontent.com/85465356/121676228-58c17500-caef-11eb-9eef-e942fbbafc61.jpg)
+
+
+![model3_select](https://user-images.githubusercontent.com/85465356/121676241-5d862900-caef-11eb-9d80-4bae4bd9c251.jpg)
+
+
+![case3(1)](https://user-images.githubusercontent.com/85465356/121676247-60811980-caef-11eb-8db7-d8cdee28bf65.jpg)
+
+
+![case3(5)](https://user-images.githubusercontent.com/85465356/121676256-61b24680-caef-11eb-974c-65189686050d.jpg)
+
+
+![case3(2)](https://user-images.githubusercontent.com/85465356/121676260-637c0a00-caef-11eb-94da-f590fc00cfad.jpg)
+
+
+![case3(3)](https://user-images.githubusercontent.com/85465356/121676265-64ad3700-caef-11eb-9f36-d1d937f5907a.jpg)
+
+
+![case3(4)](https://user-images.githubusercontent.com/85465356/121676273-65de6400-caef-11eb-8f35-e89632f73f8a.jpg)
