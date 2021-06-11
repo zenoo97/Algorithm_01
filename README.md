@@ -3,14 +3,21 @@
 
 --------------MODEL 1 : 3 Layers with 1 Convolution layer--------------
 
+1. select MODEL 1
+
+
 ![model1_select](https://user-images.githubusercontent.com/85465356/121676109-36c7f280-caef-11eb-82c8-c5971763b26e.jpg)
 
+
+2. Accuracy
 
 ![case1_operate_accuracy](https://user-images.githubusercontent.com/85465356/121676138-40e9f100-caef-11eb-873f-8a553e240bd9.jpg)
 
 
 ![case1_operate_accuracy_j](https://user-images.githubusercontent.com/85465356/121676148-447d7800-caef-11eb-88d8-34fec1fafa2d.jpg)
 
+
+3. Result
 
 ![case1(1)](https://user-images.githubusercontent.com/85465356/121676155-46473b80-caef-11eb-9171-24b215633c49.jpg)
 
@@ -21,15 +28,24 @@
 ![case1(3)](https://user-images.githubusercontent.com/85465356/121676167-49422c00-caef-11eb-95a0-747147f9ab2a.jpg)
 
 
---------------MODEL 1 : 3 Layers with 1 Convolution layer--------------
+--------------MODEL 2 : 5 Layers with 2 Convolution layer--------------
+
+1. Select MODEL 2
+
 
 ![model2_select](https://user-images.githubusercontent.com/85465356/121676183-4e06e000-caef-11eb-9035-0bb5d6108461.jpg)
+
+
+2. Accuracy
 
 
 ![case2(1)](https://user-images.githubusercontent.com/85465356/121676199-52cb9400-caef-11eb-9b07-07ac81edf92d.jpg)
 
 
 ![case2(5)](https://user-images.githubusercontent.com/85465356/121676206-54955780-caef-11eb-8498-db1c43b79ce2.jpg)
+
+
+3. Result
 
 
 ![case2(2)](https://user-images.githubusercontent.com/85465356/121676212-55c68480-caef-11eb-88e1-592c6b204818.jpg)
@@ -41,15 +57,26 @@
 ![case2(4)](https://user-images.githubusercontent.com/85465356/121676228-58c17500-caef-11eb-9eef-e942fbbafc61.jpg)
 
 
---------------MODEL 1 : 3 Layers with 1 Convolution layer--------------
+--------------MODEL 3 : 7 Layers with 4 Convolution layer--------------
+
+1. Selct MODEL 3
+
 
 ![model3_select](https://user-images.githubusercontent.com/85465356/121676241-5d862900-caef-11eb-9d80-4bae4bd9c251.jpg)
+
+
+
+2. Accuracy
 
 
 ![case3(1)](https://user-images.githubusercontent.com/85465356/121676247-60811980-caef-11eb-8db7-d8cdee28bf65.jpg)
 
 
 ![case3(5)](https://user-images.githubusercontent.com/85465356/121676256-61b24680-caef-11eb-974c-65189686050d.jpg)
+
+
+
+3. Result
 
 
 ![case3(2)](https://user-images.githubusercontent.com/85465356/121676260-637c0a00-caef-11eb-94da-f590fc00cfad.jpg)
