@@ -1,6 +1,8 @@
 # Algorithm_01
 
 
+--------------MODEL 1 : 3 Layers with 1 Convolution layer--------------
+
 ![model1_select](https://user-images.githubusercontent.com/85465356/121676109-36c7f280-caef-11eb-82c8-c5971763b26e.jpg)
 
 
@@ -19,6 +21,8 @@
 ![case1(3)](https://user-images.githubusercontent.com/85465356/121676167-49422c00-caef-11eb-95a0-747147f9ab2a.jpg)
 
 
+--------------MODEL 1 : 3 Layers with 1 Convolution layer--------------
+
 ![model2_select](https://user-images.githubusercontent.com/85465356/121676183-4e06e000-caef-11eb-9035-0bb5d6108461.jpg)
 
 
@@ -36,6 +40,8 @@
 
 ![case2(4)](https://user-images.githubusercontent.com/85465356/121676228-58c17500-caef-11eb-9eef-e942fbbafc61.jpg)
 
+
+--------------MODEL 1 : 3 Layers with 1 Convolution layer--------------
 
 ![model3_select](https://user-images.githubusercontent.com/85465356/121676241-5d862900-caef-11eb-9d80-4bae4bd9c251.jpg)
 
